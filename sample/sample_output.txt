@@ -1,0 +1,3 @@
+PATHPAL OCR DEMO
+Obstacle ahead: bicycle
+Distance: 3 meters
